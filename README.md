@@ -18,7 +18,7 @@ A sleek and modern **GUI-based torrent downloader** built with Python, `tkinter`
 
 ## 🖼️ Screenshot
 
-> *(Insert a screenshot here of the app window for better visual reference)*
+> ![alt text](<Screenshot 2025-04-12 204914.png>)
 
 ---
 
